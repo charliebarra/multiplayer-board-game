@@ -2,7 +2,7 @@
 
 A local turn-based Python board game with four pieces, dice rolls, corner movement, and mystery spaces.
 
-[View my programming portfolio](https://charliebarra.github.io/portfolio/programming.html)
+[View my programming portfolio](https://www.charliebarra.com/programming.html)
 
 ![The graphical board with four player pieces and a die](images/multiplayer-screenshot.png)
 
